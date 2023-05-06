@@ -34,6 +34,7 @@ bool Engine::Clean()
 
 void Engine::Quit()
 {
+
 }
 
 void Engine::Update()
